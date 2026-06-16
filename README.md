@@ -1,2 +1,2 @@
 # mysharecodeM6_5
-{mycode}(fist01.py)
+[mycode](fist01.py)
